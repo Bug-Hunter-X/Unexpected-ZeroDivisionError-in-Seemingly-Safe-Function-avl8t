@@ -1,0 +1,1 @@
+This example demonstrates an edge case in Python that can lead to unexpected ZeroDivisionErrors. The function `function_with_uncommon_error` attempts to handle division by zero, but it does so in a way that results in an error if both inputs are zero.  The solution shows how to address this unexpected behavior.
